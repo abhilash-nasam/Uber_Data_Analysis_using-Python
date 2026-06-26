@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """Uber_Rides_Data_Analysis_using_Python.py"""
 
 import pandas as pd
